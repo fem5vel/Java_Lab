@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "bsu.rfct.course2.group6.chernecki.Main",
+            "projectName": "Java_Lab_517e0c1d",
+            "args": "-calories"
+        }
+    ]
+}
